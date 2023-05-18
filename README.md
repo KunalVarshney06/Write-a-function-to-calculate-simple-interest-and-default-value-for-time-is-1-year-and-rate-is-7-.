@@ -1,0 +1,1 @@
+# Write-a-function-to-calculate-simple-interest-and-default-value-for-time-is-1-year-and-rate-is-7-.
